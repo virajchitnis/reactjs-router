@@ -1,0 +1,26 @@
+{
+  "name": "react-router",
+  "version": "1.0.0",
+  "description": "Router for ReactJS",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/virajchitnis/react-router.git"
+  },
+  "keywords": [
+    "reactjs",
+    "router",
+    "javascript",
+    "es6",
+    "jsx"
+  ],
+  "author": "Viraj Chitnis <vc@virajchitnis.com> (https://www.virajchitnis.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virajchitnis/react-router/issues"
+  },
+  "homepage": "https://github.com/virajchitnis/react-router#readme"
+}
