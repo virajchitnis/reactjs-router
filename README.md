@@ -1,5 +1,5 @@
-React Router
-============
+ReactJS Router
+==============
 
 Router for ReactJS
 
@@ -9,11 +9,11 @@ Installation
 Via npm
 
 ```
-npm install react-router
+npm install reactjs-router
 ```
 
 Via yarn
 
 ```
-yarn add react-router
+yarn add reactjs-router
 ```

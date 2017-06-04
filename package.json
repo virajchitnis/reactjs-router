@@ -1,5 +1,5 @@
 {
-  "name": "react-router",
+  "name": "reactjs-router",
   "version": "1.0.0",
   "description": "Router for ReactJS",
   "main": "index.jsx",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/virajchitnis/react-router.git"
+    "url": "git+ssh://git@github.com/virajchitnis/reactjs-router.git"
   },
   "keywords": [
     "reactjs",
@@ -20,9 +20,9 @@
   "author": "Viraj Chitnis <vc@virajchitnis.com> (https://www.virajchitnis.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/virajchitnis/react-router/issues"
+    "url": "https://github.com/virajchitnis/reactjs-router/issues"
   },
-  "homepage": "https://github.com/virajchitnis/react-router#readme",
+  "homepage": "https://github.com/virajchitnis/reactjs-router#readme",
   "dependencies": {
     "react": "^15.5.4"
   }
