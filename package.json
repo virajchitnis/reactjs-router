@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/virajchitnis/react-router/issues"
   },
-  "homepage": "https://github.com/virajchitnis/react-router#readme"
+  "homepage": "https://github.com/virajchitnis/react-router#readme",
+  "dependencies": {
+    "react": "^15.5.4"
+  }
 }
