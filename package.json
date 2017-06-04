@@ -1,9 +1,11 @@
 {
   "name": "reactjs-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Router for ReactJS",
-  "main": "index.jsx",
+  "main": "index.js",
   "scripts": {
+    "build": "jsx --es6module index.jsx > index.js",
+    "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,5 +27,8 @@
   "homepage": "https://github.com/virajchitnis/reactjs-router#readme",
   "dependencies": {
     "react": "^15.5.4"
+  },
+  "devDependencies": {
+    "react-tools": "^0.13.3"
   }
 }
