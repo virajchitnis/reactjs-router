@@ -1,6 +1,6 @@
 {
   "name": "reactjs-router",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Router for ReactJS",
   "main": "index.js",
   "scripts": {
