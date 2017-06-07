@@ -81,7 +81,7 @@ Below is the standard HTML ouput of the above component to give you an idea on h
 
 ## Demo
 
-My website [virajchitnis.com](https://www.virajchitnis.com) uses this module. The example code above is from my website.
+My website [virajchitnis.com](https://www.virajchitnis.com) uses this module. The complete code for my website is available [here](//github.com/virajchitnis/virajchitnis.com). The example code above is from my website.
 
 ## Contribution
 
